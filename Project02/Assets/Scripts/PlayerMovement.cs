@@ -8,7 +8,6 @@ public class PlayerMovement : MonoBehaviour
 
     public float moveSpeed;
 
-    // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();    
