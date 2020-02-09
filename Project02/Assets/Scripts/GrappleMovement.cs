@@ -9,6 +9,7 @@ public class GrappleMovement : MonoBehaviour
     private float moveSpeed = 75f;
 
     private DistanceJoint2D joint;
+    private HingeJoint2D hingeJoint;
     private Vector3 mousePosition;
     private RaycastHit2D hit;
     public float maxDistance;
