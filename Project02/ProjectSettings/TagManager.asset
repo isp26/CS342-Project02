@@ -15,7 +15,7 @@ TagManager:
   - 
   - Player
   - StickySurface
-  - 
+  - Foreground
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3541196971
+    locked: 0
+  - name: Player
+    uniqueID: 767577219
     locked: 0
